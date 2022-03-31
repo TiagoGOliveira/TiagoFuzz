@@ -15,18 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <a href="https://github.com/TiagoFuzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoFuzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFuzz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-J" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
   <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Tiago-pic" height="150" style="border-radius:50px;" src="COLAR LINK DA FIGURA COM MINHA CARA?width=676&height=676">
+  <img align="right" alt="Tiago-pic" height="150" style="border-radius:50px;" src="https://github.com/TiagoFuzz/TiagoFuzz/blob/main/imageedit_1_3187607486.jpg?raw=true?width=676&height=676">
 </div>
+  
+   ### Analytics ⚙️
+  
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoFuzz" />
+  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
+</p>  
   
   ## 📊 My Github Stats
 
@@ -53,16 +56,7 @@ Here are some ideas to get you started:
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-  ### Analytics ⚙️
-  
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoFuzz" />
-  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
-</p>  
-  
-
-
-  
+ 
   ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TiagoFuzz">
