@@ -1,4 +1,5 @@
-### Hello, I am Tiago Guimarães de Oliveira, computer, environmental and health and safety engineer! 👋
+### Hello, I am Tiago Guimarães de Oliveira, Teacher👨‍🏫, Computer💻, Environmental🌳 and Health and Safety🦺 Engineer! 🤖🎸🥁
+### Interested on Data Science and Machine Learning.
 
 <!--
 **TiagoFuzz/TiagoFuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,20 +21,52 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFuzz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Tiago-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/javas-plain.svg">
+  <img align="center" alt="Tiago-J" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
   <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Tiago-pic" height="150" style="border-radius:50px;" src="COLAR LINK DA FIGURA COM MINHA CARA?width=676&height=676">
 </div>
   
+  ## 📊 My Github Stats
+
+  <br/>
+  <a href="https://github.com/TiagoFuzz/tauz-hub.git"><img alt="Tiago Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoFuzz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/TiagoFuzz/TiagoFuzz.git"><img alt="Tiago Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFuzz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/TiagoFuzz/TiagoFuzz.git"><img alt="TiagoActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=TiagoFuzz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
   ##
  
 <div> 
   <a href="https://instagram.com/only.fuzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:tiagogoliveira@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/tiagogoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/TiagoFuzz/TiagoFuzz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  ### Analytics ⚙️
+  
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoFuzz" />
+  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
+</p>  
+  
+
+
+  
+  ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TiagoFuzz">
+</a>
+<!--<a href="https://github.com/TiagoFuzz?tab=followers"><img src="https://img.shields.io/github/followers/TiagoFuzz?label=Followers&style=social" alt="GitHub Badge"></a>-->
  
 </div>
