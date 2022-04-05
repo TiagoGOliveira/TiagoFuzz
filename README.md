@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/TiagoFuzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoFuzz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFuzz&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoFuzz&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFuzz&layout=compact&langs_count=2000&theme=midnight-purple"/>
 </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
