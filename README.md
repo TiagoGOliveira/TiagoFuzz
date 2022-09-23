@@ -1,6 +1,7 @@
 ### Hello, I am Tiago Guimarães de Oliveira, Teacher👨‍🏫, Computer💻, Environmental🌳 and Health and Safety🦺 Engineer! 🤖🎸🥁
 ### Interested on Data Science and Machine Learning.
 
+
 <!--
 **TiagoFuzz/TiagoFuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
