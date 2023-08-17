@@ -27,10 +27,12 @@ Here are some ideas to get you started:
   
    ### Analytics ⚙️
   
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoFuzz" />
-  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
-</p>  
+[![Tiagos's github stats](https://github-readme-stats.vercel.app/api?username=TiagoGOliveira)](https://github.com/TiagoGOliveira)
+
+**📫 Reach me at:**<br>
+
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagogoliveira/)](https://www.linkedin.com/in/tiagogoliveira)
+
   
   ## 📊 My Github Stats
 
